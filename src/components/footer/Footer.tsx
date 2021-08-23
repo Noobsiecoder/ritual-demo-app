@@ -9,7 +9,7 @@ const Footer = () => {
           className="flex items-center text-lg font-bold text-blue-500 underline gap-x-0.5"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/Noobsicoder/ritual-demo-app"
+          href="https://github.com/Noobsiecoder/ritual-demo-app"
         >
           GitHub Repository link
           <HiOutlineExternalLink className="w-4 h-4 text-blue-500" />
